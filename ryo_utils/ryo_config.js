@@ -39,21 +39,21 @@ export default {
     txMinConfirms: 10,
 
     // Currency symbol
-    coinSymbol: "RYO",
+    coinSymbol: "ARQ",
 
     // OpenAlias prefix
-    openAliasPrefix: "ryo",
+    openAliasPrefix: "arqma",
 
     // Currency name
-    coinName: "Ryo",
+    coinName: "ARQ",
 
     // Payment URI Prefix
-    coinUriPrefix: "ryo:",
+    coinUriPrefix: "arqma:",
 
     // Prefix code for addresses
-    addressPrefix: 2941330,
-    integratedAddressPrefix: 3006866,
-    subaddressPrefix: 3137938,
+    addressPrefix: 11466,
+    integratedAddressPrefix: 1141703,
+    subaddressPrefix: 26695,
 
     // Dust threshold in atomic units
     // 2*10^6 used for choosing outputs/change - we decompose all the way down if the receiver wants now regardless of threshold
@@ -63,5 +63,5 @@ export default {
     maxBlockNumber: 500000000,
 
     // Average block time in seconds, used for unlock time estimation
-    avgBlockTime: 240,
+    avgBlockTime: 120,
 }

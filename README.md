@@ -1,3 +1,5 @@
+# Version moded to arqma-electron needs
+
 # Ryo Core JS
 
 ### Info
