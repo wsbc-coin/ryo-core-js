@@ -36,7 +36,7 @@ export default {
     coinUnitPlaces: 9,
 
     // Minimum number of confirmations for a transaction to show as confirmed
-    txMinConfirms: 10,
+    txMinConfirms: 4,
 
     // Currency symbol
     coinSymbol: "ARQ",
