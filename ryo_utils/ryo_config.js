@@ -39,21 +39,21 @@ export default {
     txMinConfirms: 4,
 
     // Currency symbol
-    coinSymbol: "ARQ",
+    coinSymbol: "MRL",
 
     // OpenAlias prefix
-    openAliasPrefix: "arqma",
+    openAliasPrefix: "oa1:mrl",
 
     // Currency name
-    coinName: "ARQ",
+    coinName: "MRL",
 
     // Payment URI Prefix
-    coinUriPrefix: "arqma:",
+    coinUriPrefix: "morelo:",
 
     // Prefix code for addresses
-    addressPrefix: 11466,
-    integratedAddressPrefix: 1141703,
-    subaddressPrefix: 26695,
+    addressPrefix: 0x786e,
+    integratedAddressPrefix: 0x1cf46e,
+    subaddressPrefix: 0x77ee,
 
     // Dust threshold in atomic units
     // 2*10^6 used for choosing outputs/change - we decompose all the way down if the receiver wants now regardless of threshold
