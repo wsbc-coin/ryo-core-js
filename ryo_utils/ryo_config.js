@@ -51,9 +51,9 @@ export default {
     coinUriPrefix: "morelo:",
 
     // Prefix code for addresses
-    addressPrefix: 0x786e,
-    integratedAddressPrefix: 0x1cf46e,
-    subaddressPrefix: 0x77ee,
+    addressPrefix: 0x1a29e1,
+    integratedAddressPrefix: 0x8a8e1,
+    subaddressPrefix: 0xeaae1,
 
     // Dust threshold in atomic units
     // 2*10^6 used for choosing outputs/change - we decompose all the way down if the receiver wants now regardless of threshold
