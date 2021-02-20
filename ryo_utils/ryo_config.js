@@ -39,21 +39,21 @@ export default {
     txMinConfirms: 4,
 
     // Currency symbol
-    coinSymbol: "ARQ",
+    coinSymbol: "WSBC",
 
     // OpenAlias prefix
-    openAliasPrefix: "arqma",
+    openAliasPrefix: "WSBC",
 
     // Currency name
-    coinName: "ARQ",
+    coinName: "WSBC",
 
     // Payment URI Prefix
-    coinUriPrefix: "arqma:",
+    coinUriPrefix: "WSBC:",
 
     // Prefix code for addresses
-    addressPrefix: 11466,
-    integratedAddressPrefix: 1141703,
-    subaddressPrefix: 26695,
+    addressPrefix: 2309295,
+    integratedAddressPrefix: 228768943,
+    subaddressPrefix: 247643311,
 
     // Dust threshold in atomic units
     // 2*10^6 used for choosing outputs/change - we decompose all the way down if the receiver wants now regardless of threshold
